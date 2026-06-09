@@ -1,5 +1,8 @@
 # Desafio_DIO
 Depositório Dio - Vendas com IA
+
+Fonte: https://notebooklm.google.com/notebook/e6774f19-d58c-4c13-9d2c-99092c9a55d2
+
 # Caderno Temático NotebookLM — Claude Design
 
 ## 1. Contexto e Objetivos
